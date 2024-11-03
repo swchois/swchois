@@ -27,4 +27,4 @@
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmddnjs3283@gmail.com)](mailto:tmddnjs3283@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tmddnjs3283@naver.com)](mailto:https://blog.naver.com/tmddnjs3283)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tmddnjs3283@naver.com)](mailto:tmddnjs3283@naver.com)
