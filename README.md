@@ -6,7 +6,37 @@
 
 ![Swchois's GitHub stats](https://github-readme-stats.vercel.app/api?username=swchois&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddnjs3283)](https://solved.ac/tmddnjs3283/)
+
+# Personal History
+
+|Group|활동 내역|Exp|
+|------|---|---|
+|Toss English|영어학원 강사 및 영어 학습 Tool Developer|2025.01 ~ ing|
+|Scout|한국스카우트 광주연맹 지도자|2019.01 ~ing|
+|Scout|한국스카우트 광주연맹 소속 |2013.01 ~ing|
+|Scout|한국스카우트 학교대 소속 |2010.06 ~ 2013.01|
+|Scout|한국스카우트 광주연맹 로버스카우트 부회장|2023.01 ~ 2023.12|
+|Scout|24th World Scout Jamboree(미국) - Reception |2020.08 ~ 2020.09|
+|Scout|25th World Scout Jamboree(한국) - Leader |2024.08 ~ 2024.09|
+|Chosun Univ|2024학년도 SW 중심대학 Java 분반 조교|2023.08 ~ 2023.12|
+|Chosun Univ|K Content Place 케콘플 Full Stack 개발자 (캡스톤)|2023.03 ~ 2023.06|
+|Canada Colledge of English Language|동계 어학 연수|2023.01 ~ 2023.02|
+|Toss English|학원 강사|2022.06 ~ 2022.09|
+|elementary & Middle & high school|Broadcasting Department|2012.04~2019.02|
+
+# Awards & Certification
+
+|Award | Host | Date|
+|------|---|---|
+|ICPC 알고리즘 예선 교내 대상|Chosun Univ SW중심대학 사업단|2024.10.26|
+|5th OASIS HACKERTON 특별상|광주정보문화산업진흥원|2024.08.27|
+|광주광역시 자원봉사자 대회 동장|광주광역시|2023.12.24|
+|정보처리기사|한국산업인력공단|2024.09.10|
+
+
+
 # 💪Skills
+
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
