@@ -12,15 +12,15 @@
 |Group|활동 내역|Exp|
 |------|---|---|
 |Toss English|영어학원 강사 및 영어 학습 Tool Developer|2025.01 ~ ing|
+|Chosun Univ|K Content Place 케콘플 Full Stack 개발자 (캡스톤)|2023.03 ~ 2023.06|
+|Chosun Univ|2024학년도 SW 중심대학 Java 분반 조교|2023.08 ~ 2023.12|
+|Canada Colledge of English Language|동계 어학 연수|2023.01 ~ 2023.02|
 |Scout|한국스카우트 광주연맹 지도자|2019.01 ~ing|
 |Scout|한국스카우트 광주연맹 소속 |2013.01 ~ing|
 |Scout|한국스카우트 학교대 소속 |2010.06 ~ 2013.01|
 |Scout|한국스카우트 광주연맹 로버스카우트 부회장|2023.01 ~ 2023.12|
 |Scout|24th World Scout Jamboree(미국) - Reception |2020.08 ~ 2020.09|
 |Scout|25th World Scout Jamboree(한국) - Leader |2024.08 ~ 2024.09|
-|Chosun Univ|2024학년도 SW 중심대학 Java 분반 조교|2023.08 ~ 2023.12|
-|Chosun Univ|K Content Place 케콘플 Full Stack 개발자 (캡스톤)|2023.03 ~ 2023.06|
-|Canada Colledge of English Language|동계 어학 연수|2023.01 ~ 2023.02|
 |Toss English|학원 강사|2022.06 ~ 2022.09|
 |elementary & Middle & high school|Broadcasting Department|2012.04~2019.02|
 
