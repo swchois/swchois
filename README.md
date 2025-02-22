@@ -12,7 +12,7 @@
 |Group|활동 내역|Exp|
 |------|---|---|
 |Toss English|영어학원 강사 및 영어 학습 Tool Developer|2025.01 ~ ing|
-|Chosun Univ|K Content Place 케콘플 Full Stack 개발자 (캡스톤)|2023.03 ~ 2023.06|
+|Chosun Univ|K Content Place 케콘플 Full Stack 개발자 (캡스톤)|2024.03 ~ 2024.06|
 |Chosun Univ|2024학년도 SW 중심대학 Java 분반 조교|2023.08 ~ 2023.12|
 |Canada Colledge of English Language|동계 어학 연수|2023.01 ~ 2023.02|
 |Scout|한국스카우트 광주연맹 지도자|2019.01 ~ing|
