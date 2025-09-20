@@ -1,9 +1,4 @@
 # Seung Won Choi 😉
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswchois&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-[![코드트리|실력진단-tmddnjs3283](https://banner.codetree.ai/v1/banner/tmddnjs3283)](https://www.codetree.ai/profiles/tmddnjs3283)
-
 ![Swchois's GitHub stats](https://github-readme-stats.vercel.app/api?username=swchois&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddnjs3283)](https://solved.ac/tmddnjs3283/)
 
@@ -11,7 +6,8 @@
 
 |Group|활동 내역|Exp|
 |------|---|---|
-|Toss English|영어학원 강사 및 영어 학습 Tool Developer|2025.01 ~ ing|
+|SATREC INITATIVE|방산부문 개발자|2025.04 ~ NOW|
+|Toss English|영어학원 강사 및 영어 학습 Tool Developer|2025.01 ~ 2025.04|
 |Chosun Univ|K Content Place 케콘플 Full Stack 개발자 (캡스톤)|2024.03 ~ 2024.06|
 |Chosun Univ|2024학년도 SW 중심대학 Java 분반 조교|2024.08 ~ 2024.12|
 |Canada Colledge of English Language|동계 어학 연수|2023.01 ~ 2023.02|
