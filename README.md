@@ -1,5 +1,4 @@
 # Seung Won Choi 😉
-![Swchois's GitHub stats](https://github-readme-stats.vercel.app/api?username=swchois&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddnjs3283)](https://solved.ac/tmddnjs3283/)
 
 # Personal History
